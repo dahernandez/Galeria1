@@ -1,1 +1,1 @@
-# itla-galeria
+# Galeria-Tarea8
